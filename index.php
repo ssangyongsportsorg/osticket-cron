@@ -22,7 +22,7 @@
 
 $config = array(
         'url'=>'https://help.ssangyongsports.eu.org/help/api/tasks/cron',
-        'key'=>'B9E055B7905FA655443BD39640607771'
+        'key'=>'67E88636AFBFE9FFE2AF17B8332340EE'
         );
 
 #pre-checks
